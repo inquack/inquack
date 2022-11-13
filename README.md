@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @inquack
-- 👀 I’m interested in learning about UX design/research/engineering
-- 🌱 I’m currently learning Python and Figma
-- 💞️ I’m looking to collaborate on beginner UX projects 
+- 👀 I’m interested in pursuing neuroscience!
+- 🌱 I’m currently learning Python and Javascript
+- 💞️ I’m looking to collaborate on neuroscience data analysis projects
 - 📫 How to reach me: johnny.choi508@gmail.com
 
 <!---
