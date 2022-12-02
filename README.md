@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @inquack
 - 👀 I’m interested in pursuing neuroscience!
-- 🌱 I’m currently learning Python and Javascript
-- 💞️ I’m looking to collaborate on neuroscience data analysis projects
+- 🌱 I’m currently learning Javascript, Javascript and CSS!
 - 📫 How to reach me: johnny.choi508@gmail.com
 
 - Currently: I am working on creating my first website with HTML, CSS, and Javascript!
