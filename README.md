@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @inquack
-- 👀 I’m interested in pursuing neuroscience!
+- 👀 Currently pursuing a career in Human Computer Interaction (Student at MS in HCDE program at University of Washington)
 - 📫 How to reach me: johnny.choi508@gmail.com
 
 - Currently: I am working on creating my first website with HTML, CSS, and Javascript!
